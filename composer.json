@@ -1,0 +1,18 @@
+{
+	"name": "kanoulis/nodes",
+	"description": "Closure Table Hierarchy data model implementation for PHP Data Objects",
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "kanoulis@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Nodes\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=5.4.0"
+	}
+}
